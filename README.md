@@ -17,25 +17,7 @@ Neuronix.AI/
 │   ├── src/                    # Source code
 │   │   ├── assets/             # Image and SVG assets
 │   │   ├── components/         # Reusable components
-│   │   │   ├── AiTools.jsx
-│   │   │   ├── CreationItem.jsx
-│   │   │   ├── Footer.jsx
-│   │   │   ├── Hero.jsx
-│   │   │   ├── Navbar.jsx
-│   │   │   ├── Plan.jsx
-│   │   │   ├── Sidebar.jsx
-│   │   │   └── Testimonial.jsx
 │   │   ├── pages/              # Pages for routing
-│   │   │   ├── BlogTitles.jsx
-│   │   │   ├── Community.jsx
-│   │   │   ├── Dashboard.jsx
-│   │   │   ├── GenerateImages.jsx
-│   │   │   ├── Home.jsx
-│   │   │   ├── Layout.jsx
-│   │   │   ├── RemoveBackground.jsx
-│   │   │   ├── RemoveObject.jsx
-│   │   │   ├── ReviewResume.jsx
-│   │   │   └── WriteArticle.jsx
 │   │   ├── App.jsx             # App shell
 │   │   ├── index.css           # Global styles
 │   │   └── main.jsx            # Entry point
@@ -51,17 +33,9 @@ Neuronix.AI/
 ├── server/
 ├── node_modules/
 ├── config/                     # Configuration files
-│   ├── cloudinary.js
-│   ├── db.js
-│   └── multer.js
 ├── controllers/                # Route logic handlers
-│   ├── aiController.js
-│   └── userController.js
 ├── middlewares/               # Express middlewares
-│   └── auth.js
 ├── routes/                    # Route definitions
-│   ├── aiRoutes.js
-│   └── userRoutes.js
 ├── .env
 ├── package.json
 ├── package-lock.json
