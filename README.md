@@ -167,7 +167,7 @@ VITE_CLERK_PUBLISHABLE_KEY=clerk_api_key
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](MITLICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
